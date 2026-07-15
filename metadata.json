@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Cờ Vua Cho Bé",
+  "description": "Trò chơi cờ vua hoạt hình 2D vui nhộn dành cho trẻ em, có trợ lý AI thông minh giải thích nước đi hài hước giúp bé học tập và cải thiện kỹ năng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
